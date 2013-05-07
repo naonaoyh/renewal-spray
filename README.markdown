@@ -1,7 +1,6 @@
-This projects provides a starting point for your own _spray-routing_ endeavors.
+Spray Rest 项目框架
 
-
-Follow these steps to get started:
+用如下步骤开始工作
 
 1. Git-clone this repository.
 
@@ -9,7 +8,7 @@ Follow these steps to get started:
 
 2. Change directory into your project:
 
-        $ cd my-project
+        $ cd blabla
 
 3. Launch SBT:
 
@@ -28,7 +27,3 @@ Follow these steps to get started:
 7. Start the application:
 
         > re-stop
-
-8. Learn more at http://www.spray.io/
-
-9. Start hacking on `src/main/scala/com/example/MyService.scala`
